@@ -145,7 +145,7 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 📸 Screenshot
 
-<img src="YOUR_SCREENSHOT_LINK"/>
+<img src="/collaborative.png"/>
 
 🚀 Live Demo: https://next-collaborative-editor-m2yp.vercel.app/
 
@@ -159,7 +159,7 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 📸 Screenshot
 
-<img src="YOUR_SCREENSHOT"/>
+<img src="/agentic-crm.pdf"/>
 
 🚀 Live Demo: https://agentic-ai-crm-frontend.onrender.com/
 
@@ -173,7 +173,7 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 📸 Screenshot
 
-<img src="YOUR_SCREENSHOT"/>
+<img src="emas-app.pdf"/>
 
 🚀 Live Demo:https://employee-management-system-1-z0q9.onrender.com/
 
