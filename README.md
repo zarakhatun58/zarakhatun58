@@ -1,77 +1,268 @@
-<!-- Banner -->
-![banner](https://i.ibb.co/WxYcjnQ/github-banner-developer.png)
+<!-- ========================= -->
+<!--           Banner          -->
+<!-- ========================= -->
 
-# 👋 Hi, I'm ** Jahanara Khatun**
-### 🚀 MERN Stack | Frontend | Full Stack Developer
-📍 India • ✉️ jkhatun258@gmail.com
+<p align="center">
+<img src="https://i.ibb.co/WxYcjnQ/github-banner-developer.png" width="100%" />
+</p>
 
-I am a passionate MERN Stack / Frontend Developer with experience building responsive, user-friendly, and modern web applications. I enjoy creating pixel-perfect UIs and writing clean, maintainable code using React.js, Next.js, and modern JavaScript.
+<!-- Typing Animation -->
 
----
+<p align="center">
 
-## 🔥 Current Activities
-- 🚀 Learning & exploring **Postgress** (App Router & SSR)
-- 🌍 Working on a **Trading Website** project
-- 📘 Improving my skills in **Mysql** & **Advanced React, Next, Angular , veu patterns**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AI-Assisted+Application+Developer;Agentic+AI+%7C+LangGraph+%7C+LLMs;Building+Scalable+Modern+Web+Applications)](https://git.io/typing-svg)
 
----
-
-## 💻 Tech Stack & Skills
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-
-### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 👋 Hi, I'm **Jahanara Khatun**
 
-### 🔗 **full stack mvp Website (Next.js + Tailwind)**  
-Live: https://footage-to-reel.onrender.com/
+### 🚀 Senior Full Stack Developer | MERN Stack Developer | AI-Assisted Application Developer
 
-### 🔗 **E-commerce UI (React + Redux)**  
-Live: https://online-shop-rozarpay.onrender.com
-###  ** Trading App 
-Live : https://glittering-kringle-af70ba.netlify.app/demo/
-### 🔗 **Chat App (Node + Socket.IO)**  
-Live: 
-### 🔗 **widget App (widget + )**  
-Live: https://widget-app-e4gg.onrender.com
+📍 Kolkata, India
 
 ---
 
-## 📊 GitHub Stats
+## 💫 About Me
 
-![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarakhatun58&show_icons=true&theme=tokyonight)
+I am a **Senior Full Stack Developer** with **5+ years of professional experience** building enterprise-grade web applications, SaaS platforms, AI-powered products, and scalable backend systems.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarakhatun58&layout=compact&theme=tokyonight)
+My expertise spans **React.js**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and modern frontend architectures.
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zarakhatun58&theme=tokyonight)
+Recently I've been building **AI-first applications** using **LangGraph**, **OpenAI**, **Google Gemini**, **Groq LLM**, and **Agentic AI workflows**, enabling intelligent automation and AI-assisted user experiences.
 
----
-
-## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/jahanara-khatun/
-- **Portfolio:** https://my-profile-ca6f2.web.app/
-- **GitHub:** https://github.com/zarakhatun58  
+I enjoy creating clean architecture, reusable components, high-performance APIs, and pixel-perfect responsive user interfaces.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🚀 Current Focus
+
+### 🤖 Artificial Intelligence
+
+- Agentic AI Applications
+- LangGraph
+- AI Workflow Automation
+- Prompt Engineering
+- LLM Integration
+- OpenAI API
+- Google Gemini
+- Groq LLM
+
+### 💻 Full Stack Development
+
+- React 19
+- Next.js App Router
+- TypeScript
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+
+### ☁️ DevOps
+
+- Docker
+- Azure DevOps
+- CI/CD
+- Render
+- Vercel
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![ChakraUI](https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge&logo=chakraui)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign)
+
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+---
+
+## AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge)
+
+---
+
+## DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge)
+
+---
+
+# ⚡ Technology Icons
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,fastapi,mongodb,postgres,mysql,redis,firebase,docker,git,github,tailwind,bootstrap,vscode,postman&perline=10"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI-Powered Collaborative Document Editor
+
+> Next.js • TypeScript • PostgreSQL • Prisma • Socket.IO • Gemini AI
+
+📸 Screenshot
+
+<img src="YOUR_SCREENSHOT_LINK"/>
+
+🚀 Live Demo
+
+https://YOUR-LIVE-LINK
+
+💻 Repository
+
+https://github.com/zarakhatun58/REPOSITORY
+
+---
+
+## 🧠 AI-First Agentic CRM
+
+> React • FastAPI • LangGraph • Groq LLM • PostgreSQL
+
+📸 Screenshot
+
+<img src="YOUR_SCREENSHOT"/>
+
+🚀 Live Demo
+
+https://YOUR-LIVE-LINK
+
+💻 Repository
+
+https://github.com/zarakhatun58/REPOSITORY
+
+---
+
+## 👨‍💼 Employee Management System
+
+> React • Node • MongoDB • Docker
+
+📸 Screenshot
+
+<img src="YOUR_SCREENSHOT"/>
+
+🚀 Live Demo
+
+https://YOUR-LIVE-LINK
+
+💻 Repository
+
+https://github.com/zarakhatun58/REPOSITORY
+
+---
+
+# 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=zarakhatun58&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=zarakhatun58&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zarakhatun58&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=zarakhatun58&theme=algolia&margin-w=15)
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=zarakhatun58&theme=react-dark)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/zarakhatun58/zarakhatun58/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zarakhatun58&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jahanara-khatun/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://my-profile-ca6f2.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/zarakhatun58">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
