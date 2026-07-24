@@ -147,13 +147,9 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 <img src="YOUR_SCREENSHOT_LINK"/>
 
-🚀 Live Demo
+🚀 Live Demo: https://next-collaborative-editor-m2yp.vercel.app/
 
-https://YOUR-LIVE-LINK
-
-💻 Repository
-
-https://github.com/zarakhatun58/REPOSITORY
+💻 Repository : https://github.com/zarakhatun58/next-collaborative-editor
 
 ---
 
@@ -165,13 +161,9 @@ https://github.com/zarakhatun58/REPOSITORY
 
 <img src="YOUR_SCREENSHOT"/>
 
-🚀 Live Demo
+🚀 Live Demo: https://agentic-ai-crm-frontend.onrender.com/
 
-https://YOUR-LIVE-LINK
-
-💻 Repository
-
-https://github.com/zarakhatun58/REPOSITORY
+💻 Repository : https://github.com/zarakhatun58/agentic-ai-crm
 
 ---
 
@@ -183,14 +175,9 @@ https://github.com/zarakhatun58/REPOSITORY
 
 <img src="YOUR_SCREENSHOT"/>
 
-🚀 Live Demo
+🚀 Live Demo:https://employee-management-system-1-z0q9.onrender.com/
 
-https://YOUR-LIVE-LINK
-
-💻 Repository
-
-https://github.com/zarakhatun58/REPOSITORY
-
+💻 Repository : https://github.com/zarakhatun58/employee-management-system
 ---
 
 # 📈 GitHub Analytics
