@@ -159,7 +159,7 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 📸 Screenshot
 
-<img src="/agentic-crm.pdf"/>
+<img src="/agentic-crm-page.pdf"/>
 
 🚀 Live Demo: https://agentic-ai-crm-frontend.onrender.com/
 
@@ -173,11 +173,12 @@ I enjoy creating clean architecture, reusable components, high-performance APIs,
 
 📸 Screenshot
 
-<img src="emas-app.pdf"/>
+<img src="emas-app-page.pdf"/>
 
 🚀 Live Demo:https://employee-management-system-1-z0q9.onrender.com/
 
 💻 Repository : https://github.com/zarakhatun58/employee-management-system
+
 ---
 
 # 📈 GitHub Analytics
