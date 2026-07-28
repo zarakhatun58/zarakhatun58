@@ -18,7 +18,7 @@
 
 # 👋 Hi, I'm **Jahanara Khatun**
 
-### 🚀 Senior Full Stack Developer | MERN Stack Developer | AI-Assisted Application Developer
+### 🚀 Full Stack Developer | MERN Stack Developer | AI-Assisted Application Developer | React Native | Next.js Developer | React.js Developer
 
 📍 Kolkata, India
 
